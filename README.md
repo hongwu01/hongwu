@@ -1,0 +1,2 @@
+# hongwu
+Bitcoin mining democratized
